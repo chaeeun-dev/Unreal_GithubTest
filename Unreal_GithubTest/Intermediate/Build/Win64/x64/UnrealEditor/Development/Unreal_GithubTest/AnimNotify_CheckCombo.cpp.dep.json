@@ -1,0 +1,17 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\devlog\\unreal_githubtest\\unreal_githubtest\\source\\unreal_githubtest\\variant_combat\\animation\\animnotify_checkcombo.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\devlog\\unreal_githubtest\\unreal_githubtest\\intermediate\\build\\win64\\x64\\unreal_githubtesteditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "d:\\devlog\\unreal_githubtest\\unreal_githubtest\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\unreal_githubtest\\definitions.unreal_githubtest.h",
+            "d:\\devlog\\unreal_githubtest\\unreal_githubtest\\source\\unreal_githubtest\\variant_combat\\animation\\animnotify_checkcombo.h",
+            "d:\\devlog\\unreal_githubtest\\unreal_githubtest\\intermediate\\build\\win64\\unrealeditor\\inc\\unreal_githubtest\\uht\\animnotify_checkcombo.generated.h",
+            "d:\\devlog\\unreal_githubtest\\unreal_githubtest\\source\\unreal_githubtest\\variant_combat\\interfaces\\combatattacker.h",
+            "d:\\devlog\\unreal_githubtest\\unreal_githubtest\\intermediate\\build\\win64\\unrealeditor\\inc\\unreal_githubtest\\uht\\combatattacker.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

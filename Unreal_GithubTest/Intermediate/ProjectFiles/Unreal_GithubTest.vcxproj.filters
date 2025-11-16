@@ -1,0 +1,324 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\Unreal_GithubTest.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Unreal_GithubTest.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\Unreal_GithubTestEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\Unreal_GithubTest">
+      <UniqueIdentifier>{FF6EFFA5-C788-385F-B10C-D19908CBADA9}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Unreal_GithubTest\Unreal_GithubTest.Build.cs">
+      <Filter>Source\Unreal_GithubTest</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\Unreal_GithubTest\Unreal_GithubTest.cpp">
+      <Filter>Source\Unreal_GithubTest</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Unreal_GithubTest\Unreal_GithubTest.h">
+      <Filter>Source\Unreal_GithubTest</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Unreal_GithubTest\Unreal_GithubTestCharacter.cpp">
+      <Filter>Source\Unreal_GithubTest</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Unreal_GithubTest\Unreal_GithubTestCharacter.h">
+      <Filter>Source\Unreal_GithubTest</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Unreal_GithubTest\Unreal_GithubTestGameMode.cpp">
+      <Filter>Source\Unreal_GithubTest</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Unreal_GithubTest\Unreal_GithubTestGameMode.h">
+      <Filter>Source\Unreal_GithubTest</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Unreal_GithubTest\Unreal_GithubTestPlayerController.cpp">
+      <Filter>Source\Unreal_GithubTest</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Unreal_GithubTest\Unreal_GithubTestPlayerController.h">
+      <Filter>Source\Unreal_GithubTest</Filter>
+    </ClInclude>
+    <Filter Include="Source\Unreal_GithubTest\Variant_Combat">
+      <UniqueIdentifier>{84259D0D-58C3-30B6-8A1F-6D74EF602EC2}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\Unreal_GithubTest\Variant_Combat\CombatCharacter.cpp">
+      <Filter>Source\Unreal_GithubTest\Variant_Combat</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Unreal_GithubTest\Variant_Combat\CombatCharacter.h">
+      <Filter>Source\Unreal_GithubTest\Variant_Combat</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Unreal_GithubTest\Variant_Combat\CombatGameMode.cpp">
+      <Filter>Source\Unreal_GithubTest\Variant_Combat</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Unreal_GithubTest\Variant_Combat\CombatGameMode.h">
+      <Filter>Source\Unreal_GithubTest\Variant_Combat</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Unreal_GithubTest\Variant_Combat\CombatPlayerController.cpp">
+      <Filter>Source\Unreal_GithubTest\Variant_Combat</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Unreal_GithubTest\Variant_Combat\CombatPlayerController.h">
+      <Filter>Source\Unreal_GithubTest\Variant_Combat</Filter>
+    </ClInclude>
+    <Filter Include="Source\Unreal_GithubTest\Variant_Combat\AI">
+      <UniqueIdentifier>{8EADB152-693C-36AE-BE46-D8FA86F5C2D6}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\Unreal_GithubTest\Variant_Combat\AI\CombatAIController.cpp">
+      <Filter>Source\Unreal_GithubTest\Variant_Combat\AI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Unreal_GithubTest\Variant_Combat\AI\CombatAIController.h">
+      <Filter>Source\Unreal_GithubTest\Variant_Combat\AI</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Unreal_GithubTest\Variant_Combat\AI\CombatEnemy.cpp">
+      <Filter>Source\Unreal_GithubTest\Variant_Combat\AI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Unreal_GithubTest\Variant_Combat\AI\CombatEnemy.h">
+      <Filter>Source\Unreal_GithubTest\Variant_Combat\AI</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Unreal_GithubTest\Variant_Combat\AI\CombatEnemySpawner.cpp">
+      <Filter>Source\Unreal_GithubTest\Variant_Combat\AI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Unreal_GithubTest\Variant_Combat\AI\CombatEnemySpawner.h">
+      <Filter>Source\Unreal_GithubTest\Variant_Combat\AI</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Unreal_GithubTest\Variant_Combat\AI\CombatStateTreeUtility.cpp">
+      <Filter>Source\Unreal_GithubTest\Variant_Combat\AI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Unreal_GithubTest\Variant_Combat\AI\CombatStateTreeUtility.h">
+      <Filter>Source\Unreal_GithubTest\Variant_Combat\AI</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Unreal_GithubTest\Variant_Combat\AI\EnvQueryContext_Player.cpp">
+      <Filter>Source\Unreal_GithubTest\Variant_Combat\AI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Unreal_GithubTest\Variant_Combat\AI\EnvQueryContext_Player.h">
+      <Filter>Source\Unreal_GithubTest\Variant_Combat\AI</Filter>
+    </ClInclude>
+    <Filter Include="Source\Unreal_GithubTest\Variant_Combat\Animation">
+      <UniqueIdentifier>{CE3E11BE-0BAB-3477-BACA-6A55635F4C6F}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\Unreal_GithubTest\Variant_Combat\Animation\AnimNotify_CheckChargedAttack.cpp">
+      <Filter>Source\Unreal_GithubTest\Variant_Combat\Animation</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Unreal_GithubTest\Variant_Combat\Animation\AnimNotify_CheckChargedAttack.h">
+      <Filter>Source\Unreal_GithubTest\Variant_Combat\Animation</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Unreal_GithubTest\Variant_Combat\Animation\AnimNotify_CheckCombo.cpp">
+      <Filter>Source\Unreal_GithubTest\Variant_Combat\Animation</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Unreal_GithubTest\Variant_Combat\Animation\AnimNotify_CheckCombo.h">
+      <Filter>Source\Unreal_GithubTest\Variant_Combat\Animation</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Unreal_GithubTest\Variant_Combat\Animation\AnimNotify_DoAttackTrace.cpp">
+      <Filter>Source\Unreal_GithubTest\Variant_Combat\Animation</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Unreal_GithubTest\Variant_Combat\Animation\AnimNotify_DoAttackTrace.h">
+      <Filter>Source\Unreal_GithubTest\Variant_Combat\Animation</Filter>
+    </ClInclude>
+    <Filter Include="Source\Unreal_GithubTest\Variant_Combat\Gameplay">
+      <UniqueIdentifier>{55A1CB50-BA9D-33FD-B07F-32679F11AA26}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\Unreal_GithubTest\Variant_Combat\Gameplay\CombatActivationVolume.cpp">
+      <Filter>Source\Unreal_GithubTest\Variant_Combat\Gameplay</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Unreal_GithubTest\Variant_Combat\Gameplay\CombatActivationVolume.h">
+      <Filter>Source\Unreal_GithubTest\Variant_Combat\Gameplay</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Unreal_GithubTest\Variant_Combat\Gameplay\CombatCheckpointVolume.cpp">
+      <Filter>Source\Unreal_GithubTest\Variant_Combat\Gameplay</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Unreal_GithubTest\Variant_Combat\Gameplay\CombatCheckpointVolume.h">
+      <Filter>Source\Unreal_GithubTest\Variant_Combat\Gameplay</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Unreal_GithubTest\Variant_Combat\Gameplay\CombatDamageableBox.cpp">
+      <Filter>Source\Unreal_GithubTest\Variant_Combat\Gameplay</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Unreal_GithubTest\Variant_Combat\Gameplay\CombatDamageableBox.h">
+      <Filter>Source\Unreal_GithubTest\Variant_Combat\Gameplay</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Unreal_GithubTest\Variant_Combat\Gameplay\CombatDummy.cpp">
+      <Filter>Source\Unreal_GithubTest\Variant_Combat\Gameplay</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Unreal_GithubTest\Variant_Combat\Gameplay\CombatDummy.h">
+      <Filter>Source\Unreal_GithubTest\Variant_Combat\Gameplay</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Unreal_GithubTest\Variant_Combat\Gameplay\CombatLavaFloor.cpp">
+      <Filter>Source\Unreal_GithubTest\Variant_Combat\Gameplay</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Unreal_GithubTest\Variant_Combat\Gameplay\CombatLavaFloor.h">
+      <Filter>Source\Unreal_GithubTest\Variant_Combat\Gameplay</Filter>
+    </ClInclude>
+    <Filter Include="Source\Unreal_GithubTest\Variant_Combat\Interfaces">
+      <UniqueIdentifier>{ECA33BF6-8121-37F2-9099-352442D9E767}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\Unreal_GithubTest\Variant_Combat\Interfaces\CombatActivatable.cpp">
+      <Filter>Source\Unreal_GithubTest\Variant_Combat\Interfaces</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Unreal_GithubTest\Variant_Combat\Interfaces\CombatActivatable.h">
+      <Filter>Source\Unreal_GithubTest\Variant_Combat\Interfaces</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Unreal_GithubTest\Variant_Combat\Interfaces\CombatAttacker.cpp">
+      <Filter>Source\Unreal_GithubTest\Variant_Combat\Interfaces</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Unreal_GithubTest\Variant_Combat\Interfaces\CombatAttacker.h">
+      <Filter>Source\Unreal_GithubTest\Variant_Combat\Interfaces</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Unreal_GithubTest\Variant_Combat\Interfaces\CombatDamageable.cpp">
+      <Filter>Source\Unreal_GithubTest\Variant_Combat\Interfaces</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Unreal_GithubTest\Variant_Combat\Interfaces\CombatDamageable.h">
+      <Filter>Source\Unreal_GithubTest\Variant_Combat\Interfaces</Filter>
+    </ClInclude>
+    <Filter Include="Source\Unreal_GithubTest\Variant_Combat\UI">
+      <UniqueIdentifier>{BF99476C-6AA2-3F56-BCED-48079EF3FE78}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\Unreal_GithubTest\Variant_Combat\UI\CombatLifeBar.cpp">
+      <Filter>Source\Unreal_GithubTest\Variant_Combat\UI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Unreal_GithubTest\Variant_Combat\UI\CombatLifeBar.h">
+      <Filter>Source\Unreal_GithubTest\Variant_Combat\UI</Filter>
+    </ClInclude>
+    <Filter Include="Source\Unreal_GithubTest\Variant_Platforming">
+      <UniqueIdentifier>{4C3DADF9-834D-3A6F-9C8F-8F6035DA4E62}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\Unreal_GithubTest\Variant_Platforming\PlatformingCharacter.cpp">
+      <Filter>Source\Unreal_GithubTest\Variant_Platforming</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Unreal_GithubTest\Variant_Platforming\PlatformingCharacter.h">
+      <Filter>Source\Unreal_GithubTest\Variant_Platforming</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Unreal_GithubTest\Variant_Platforming\PlatformingGameMode.cpp">
+      <Filter>Source\Unreal_GithubTest\Variant_Platforming</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Unreal_GithubTest\Variant_Platforming\PlatformingGameMode.h">
+      <Filter>Source\Unreal_GithubTest\Variant_Platforming</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Unreal_GithubTest\Variant_Platforming\PlatformingPlayerController.cpp">
+      <Filter>Source\Unreal_GithubTest\Variant_Platforming</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Unreal_GithubTest\Variant_Platforming\PlatformingPlayerController.h">
+      <Filter>Source\Unreal_GithubTest\Variant_Platforming</Filter>
+    </ClInclude>
+    <Filter Include="Source\Unreal_GithubTest\Variant_Platforming\Animation">
+      <UniqueIdentifier>{21595BB8-64CE-39B9-BBCE-FCB6D6A344CA}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\Unreal_GithubTest\Variant_Platforming\Animation\AnimNotify_EndDash.cpp">
+      <Filter>Source\Unreal_GithubTest\Variant_Platforming\Animation</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Unreal_GithubTest\Variant_Platforming\Animation\AnimNotify_EndDash.h">
+      <Filter>Source\Unreal_GithubTest\Variant_Platforming\Animation</Filter>
+    </ClInclude>
+    <Filter Include="Source\Unreal_GithubTest\Variant_SideScrolling">
+      <UniqueIdentifier>{BF91A13E-3428-3DDD-89BF-F31AEE07185A}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\Unreal_GithubTest\Variant_SideScrolling\SideScrollingCameraManager.cpp">
+      <Filter>Source\Unreal_GithubTest\Variant_SideScrolling</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Unreal_GithubTest\Variant_SideScrolling\SideScrollingCameraManager.h">
+      <Filter>Source\Unreal_GithubTest\Variant_SideScrolling</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Unreal_GithubTest\Variant_SideScrolling\SideScrollingCharacter.cpp">
+      <Filter>Source\Unreal_GithubTest\Variant_SideScrolling</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Unreal_GithubTest\Variant_SideScrolling\SideScrollingCharacter.h">
+      <Filter>Source\Unreal_GithubTest\Variant_SideScrolling</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Unreal_GithubTest\Variant_SideScrolling\SideScrollingGameMode.cpp">
+      <Filter>Source\Unreal_GithubTest\Variant_SideScrolling</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Unreal_GithubTest\Variant_SideScrolling\SideScrollingGameMode.h">
+      <Filter>Source\Unreal_GithubTest\Variant_SideScrolling</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Unreal_GithubTest\Variant_SideScrolling\SideScrollingPlayerController.cpp">
+      <Filter>Source\Unreal_GithubTest\Variant_SideScrolling</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Unreal_GithubTest\Variant_SideScrolling\SideScrollingPlayerController.h">
+      <Filter>Source\Unreal_GithubTest\Variant_SideScrolling</Filter>
+    </ClInclude>
+    <Filter Include="Source\Unreal_GithubTest\Variant_SideScrolling\AI">
+      <UniqueIdentifier>{0BFDDDFE-C106-37F5-ADBE-E0ACDBF5877F}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\Unreal_GithubTest\Variant_SideScrolling\AI\SideScrollingAIController.cpp">
+      <Filter>Source\Unreal_GithubTest\Variant_SideScrolling\AI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Unreal_GithubTest\Variant_SideScrolling\AI\SideScrollingAIController.h">
+      <Filter>Source\Unreal_GithubTest\Variant_SideScrolling\AI</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Unreal_GithubTest\Variant_SideScrolling\AI\SideScrollingNPC.cpp">
+      <Filter>Source\Unreal_GithubTest\Variant_SideScrolling\AI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Unreal_GithubTest\Variant_SideScrolling\AI\SideScrollingNPC.h">
+      <Filter>Source\Unreal_GithubTest\Variant_SideScrolling\AI</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Unreal_GithubTest\Variant_SideScrolling\AI\SideScrollingStateTreeUtility.cpp">
+      <Filter>Source\Unreal_GithubTest\Variant_SideScrolling\AI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Unreal_GithubTest\Variant_SideScrolling\AI\SideScrollingStateTreeUtility.h">
+      <Filter>Source\Unreal_GithubTest\Variant_SideScrolling\AI</Filter>
+    </ClInclude>
+    <Filter Include="Source\Unreal_GithubTest\Variant_SideScrolling\Gameplay">
+      <UniqueIdentifier>{6D04CF3F-FBE2-3B5D-A6DD-A07372220ED1}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\Unreal_GithubTest\Variant_SideScrolling\Gameplay\SideScrollingJumpPad.cpp">
+      <Filter>Source\Unreal_GithubTest\Variant_SideScrolling\Gameplay</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Unreal_GithubTest\Variant_SideScrolling\Gameplay\SideScrollingJumpPad.h">
+      <Filter>Source\Unreal_GithubTest\Variant_SideScrolling\Gameplay</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Unreal_GithubTest\Variant_SideScrolling\Gameplay\SideScrollingMovingPlatform.cpp">
+      <Filter>Source\Unreal_GithubTest\Variant_SideScrolling\Gameplay</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Unreal_GithubTest\Variant_SideScrolling\Gameplay\SideScrollingMovingPlatform.h">
+      <Filter>Source\Unreal_GithubTest\Variant_SideScrolling\Gameplay</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Unreal_GithubTest\Variant_SideScrolling\Gameplay\SideScrollingPickup.cpp">
+      <Filter>Source\Unreal_GithubTest\Variant_SideScrolling\Gameplay</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Unreal_GithubTest\Variant_SideScrolling\Gameplay\SideScrollingPickup.h">
+      <Filter>Source\Unreal_GithubTest\Variant_SideScrolling\Gameplay</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Unreal_GithubTest\Variant_SideScrolling\Gameplay\SideScrollingSoftPlatform.cpp">
+      <Filter>Source\Unreal_GithubTest\Variant_SideScrolling\Gameplay</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Unreal_GithubTest\Variant_SideScrolling\Gameplay\SideScrollingSoftPlatform.h">
+      <Filter>Source\Unreal_GithubTest\Variant_SideScrolling\Gameplay</Filter>
+    </ClInclude>
+    <Filter Include="Source\Unreal_GithubTest\Variant_SideScrolling\Interfaces">
+      <UniqueIdentifier>{F87C237E-C2E3-3FCA-9056-B8E272F19548}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\Unreal_GithubTest\Variant_SideScrolling\Interfaces\SideScrollingInteractable.cpp">
+      <Filter>Source\Unreal_GithubTest\Variant_SideScrolling\Interfaces</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Unreal_GithubTest\Variant_SideScrolling\Interfaces\SideScrollingInteractable.h">
+      <Filter>Source\Unreal_GithubTest\Variant_SideScrolling\Interfaces</Filter>
+    </ClInclude>
+    <Filter Include="Source\Unreal_GithubTest\Variant_SideScrolling\UI">
+      <UniqueIdentifier>{B4651261-60BC-3A10-AA52-EA4ACF09A3D1}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\Unreal_GithubTest\Variant_SideScrolling\UI\SideScrollingUI.cpp">
+      <Filter>Source\Unreal_GithubTest\Variant_SideScrolling\UI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Unreal_GithubTest\Variant_SideScrolling\UI\SideScrollingUI.h">
+      <Filter>Source\Unreal_GithubTest\Variant_SideScrolling\UI</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

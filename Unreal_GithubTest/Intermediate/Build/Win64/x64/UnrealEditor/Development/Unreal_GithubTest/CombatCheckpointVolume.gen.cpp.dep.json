@@ -1,0 +1,19 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\devlog\\unreal_githubtest\\unreal_githubtest\\intermediate\\build\\win64\\unrealeditor\\inc\\unreal_githubtest\\uht\\combatcheckpointvolume.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\devlog\\unreal_githubtest\\unreal_githubtest\\intermediate\\build\\win64\\x64\\unreal_githubtesteditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "d:\\devlog\\unreal_githubtest\\unreal_githubtest\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\unreal_githubtest\\definitions.unreal_githubtest.h",
+            "d:\\devlog\\unreal_githubtest\\unreal_githubtest\\source\\unreal_githubtest\\variant_combat\\gameplay\\combatcheckpointvolume.h",
+            "c:\\program files\\epic games\\ue_5.6\\engine\\source\\runtime\\engine\\classes\\components\\boxcomponent.h",
+            "c:\\program files\\epic games\\ue_5.6\\engine\\source\\runtime\\engine\\classes\\components\\shapecomponent.h",
+            "c:\\program files\\epic games\\ue_5.6\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\shapecomponent.generated.h",
+            "c:\\program files\\epic games\\ue_5.6\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\boxcomponent.generated.h",
+            "d:\\devlog\\unreal_githubtest\\unreal_githubtest\\intermediate\\build\\win64\\unrealeditor\\inc\\unreal_githubtest\\uht\\combatcheckpointvolume.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Unreal_GithubTest",
+			"Path": "..\\Source\\Unreal_GithubTest.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "Unreal_GithubTestEditor",
+			"Path": "..\\Source\\Unreal_GithubTestEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
