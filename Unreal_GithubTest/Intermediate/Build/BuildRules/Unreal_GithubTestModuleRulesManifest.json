@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\Devlog\\Unreal_GithubTest\\Unreal_GithubTest\\Source\\Unreal_GithubTest\\Unreal_GithubTest.Build.cs",
+		"D:\\Devlog\\Unreal_GithubTest\\Unreal_GithubTest\\Source\\Unreal_GithubTest.Target.cs",
+		"D:\\Devlog\\Unreal_GithubTest\\Unreal_GithubTest\\Source\\Unreal_GithubTestEditor.Target.cs"
+	],
+	"EngineVersion": "5.6.1"
+}
